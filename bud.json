@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0-rc.1",
+    "version": "1.0.0-rc.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mskutin/bud/releases/download/v1.0.0-rc.1/bud_1.0.0-rc.1_Windows_x86_64.zip",
+            "url": "https://github.com/mskutin/bud/releases/download/v1.0.0-rc.2/bud_1.0.0-rc.2_Windows_x86_64.zip",
             "bin": [
                 "bud.exe"
             ],
-            "hash": "1f0c8f2bfcf37925f6c53192f5aef61634742c26edca73b30abf972397159372"
+            "hash": "7ad991f4d1d6460b358fb1b4bc775ba036b55dc6e15a5b7cf399443b58a89f51"
         },
         "arm64": {
-            "url": "https://github.com/mskutin/bud/releases/download/v1.0.0-rc.1/bud_1.0.0-rc.1_Windows_arm64.zip",
+            "url": "https://github.com/mskutin/bud/releases/download/v1.0.0-rc.2/bud_1.0.0-rc.2_Windows_arm64.zip",
             "bin": [
                 "bud.exe"
             ],
-            "hash": "0680c79d5d4fb4d9dcfe7528a3b7ae79c886fc809c53adf27625a7996e98cfa3"
+            "hash": "126358c0c65513de2b214925420d1c74d6bb2a134a131d24b5f8cd4cdbdb629e"
         }
     },
     "homepage": "https://github.com/mskutin/bud",
